@@ -1,4 +1,1 @@
-My name is ujja. 
-i am a python developer. 
-i think this is a one of the good carrer 
-We are adding a new content.
+list1 = ["aam","bool","cat","daku"]
